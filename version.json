@@ -1,10 +1,5 @@
 {
-  "version": "1.1",
-  "url": "https://github.com/novrixstudio14-ops/kynaro-updates/releases/download/v1.1/Kynaro.exe",
-  "changelog": "Misc tab, panic key"
-}
-{
-  "version": "1.1",
-  "url": "https://github.com/novrixstudio14-ops/kynaro-updates/releases/download/v1.1/Kynaro.exe",
-  "changelog": "v1.1"
+  "version": "1.01",
+  "url": "https://github.com/novrixstudio14-ops/kynaro-updates/releases/download/v1.2/Kynaro.exe",
+  "changelog": "Bug fixes"
 }
